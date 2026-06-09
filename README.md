@@ -3,7 +3,7 @@
 Developed by Pranavi Lakkoju
 
 An intelligent, lightweight Natural Language Processing (NLP) application built in Python that accurately distinguishes between spam and legitimate (ham) messages using machine learning. This repository serves as a practical introduction to text classification, taking raw text data, cleaning it, and running it through a statistical classifier.
-**Features**:
+# Features:
 Full Text Preprocessing: Automates lowercasing, word tokenization, and stop-word removal.
 Vectorization: Converts raw text into meaningful numerical data using TF-IDF (Term Frequency-Inverse Document Frequency) weights.
 Machine Learning Brain: Utilizes a highly efficient Multinomial Naive Bayes classifier ideal for text tasks.
